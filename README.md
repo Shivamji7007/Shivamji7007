@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivamji7007
 - 👀 I’m interested in   @App and Web Developement
-- 🌱 I’m currently learning @Kotlin 
-- 💞️ I’m looking to collaborate on @developement
+- 🌱 I’m currently learning React Native
+- - 💞️ I’m looking to collaborate on @developement
 - 📫 How to reach me  @shivampandeyji7007@gmail.com
 
 <!---
